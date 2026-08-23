@@ -1,6 +1,6 @@
  Gold Next Encounter Spawner
 
-A lightweight Pokémon Gold mod for **Gen1Recomp** that allows you to choose which Pokémon will appear in your next wild encounter — including its level.
+A lightweight Pokémon Gold mod for **Gen1Recomp** that allows you to choose which Pokémon will appear in your next wild encounter — including its level. Supports all 251 Pokémon available in Gen 2 (Kanto + Johto Pokédex).
 
 Designed to integrate directly into the game without permanently modifying normal encounter behavior.
 
