@@ -154,6 +154,6 @@ Built for the Gen1Recomp Pokémon Gold environment.
 Gen1Recomp:
 https://github.com/bryanthaboi/gen1recomp
 
-Pokémon is © Nintendo / Creatures Inc. / GAME FREAK inc.
+Pokémon and Pokémon Gold are trademarks of Nintendo, Creatures Inc., and GAME FREAK inc. This is an unofficial fan-made mod and is not affiliated with, endorsed by, or sponsored by Nintendo, Creatures Inc., GAME FREAK inc., or The Pokémon Company.
 
-This is an unofficial fan-made mod and is not affiliated with or endorsed by Nintendo, Creatures Inc., GAME FREAK, or The Pokémon Company.
+No ROM, game files, or copyrighted Pokémon Gold assets are included or distributed with this project.
