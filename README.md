@@ -10,6 +10,7 @@ Designed to integrate directly into the game without permanently modifying norma
 - Search/select Pokémon by name or Pokédex number
 - Choose the exact encounter level
 - Force only the next wild encounter
+- SHINY toggle — choose whether the selected Pokémon spawns Shiny or not
 - Optional REPEAT mode for continuous encounters
 - Cancel a pending spawn at any time
 - Integrated SPAWNER menu
