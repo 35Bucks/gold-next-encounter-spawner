@@ -63,6 +63,20 @@ The selected Pokémon appears once. After the encounter, wild encounters automat
 
 The selected Pokémon and level will continue appearing in normal wild encounters until the pending spawn is cancelled.
 
+### SHINY MODE
+
+`SHINY: OFF`
+
+The selected Pokémon will spawn normally.
+
+`SHINY: ON`
+
+The selected Pokémon will spawn as a **Shiny Pokémon**.
+
+The Shiny setting works with both one-time encounters and REPEAT mode. When REPEAT is enabled, the selected Pokémon will continue spawning as Shiny until the setting is changed or the pending spawn is cancelled.
+
+Shiny Pokémon generated through the spawner remain Shiny when caught and stored in your Party or PC.
+
 ### CANCEL PENDING
 
 Immediately removes the currently selected forced encounter and restores normal wild encounters.
