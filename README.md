@@ -1,12 +1,15 @@
- Gold Next Encounter Spawner
+# Gen2 Next Encounter Spawner
 
-A lightweight Pokémon Gold mod for **Gen1Recomp** that allows you to choose which Pokémon will appear in your next wild encounter — including its level. Supports all 251 Pokémon available in Gen 2 (Kanto + Johto Pokédex).
+A lightweight Pokémon Gen 2 mod for **Gen1Recomp** that allows you to choose which Pokémon will appear in your next wild encounter — including its level and whether it will be Shiny.
+
+Compatible with **Pokémon Gold, Silver and Crystal** and supports all 251 Pokémon available in Gen 2.
 
 Designed to integrate directly into the game without permanently modifying normal encounter behavior.
 
 ## Features
 
-- Spawn any Pokémon available in Pokémon Gold
+- Compatible with **Pokémon Gold, Silver & Crystal**
+- Spawn any of the 251 Pokémon available in Gen 2
 - Search/select Pokémon by name or Pokédex number
 - Choose the exact encounter level
 - Force only the next wild encounter
@@ -14,7 +17,8 @@ Designed to integrate directly into the game without permanently modifying norma
 - Optional REPEAT mode for continuous encounters
 - Cancel a pending spawn at any time
 - Integrated SPAWNER menu
-- Keyboard/controller-friendly navigation
+- Full 0–9 keyboard support
+- Keyboard + controller-friendly navigation
 - Normal encounters automatically resume after a one-time spawn
 - No ROM included
 
@@ -88,8 +92,8 @@ Immediately removes the currently selected forced encounter and restores normal 
 3. Go to `MODS`.
 4. Select `Import mod .zip`.
 5. Choose the downloaded ZIP.
-6. Enable **Gold Next Encounter Spawner**.
-7. Launch Pokémon Gold.
+6. Enable **Gen2 Next Encounter Spawner**.
+7. Launch Pokémon Gold, Silver or Crystal.
 
 Do not enable multiple versions of the mod at the same time.
 
@@ -117,9 +121,9 @@ With REPEAT disabled, encounters return to normal immediately afterward.
 - A / SPACE — Select
 - X — Back / Exit
 
-### Pokémon Name Selection
+### Pokémon Selection
 
-Use the Pokémon Gold naming interface to enter the Pokémon name or Pokédex number.
+Use the Gen 2 naming interface to enter the Pokémon name or Pokédex number.
 
 - A / SPACE — Select / Confirm
 - X — Back / Cancel
@@ -135,8 +139,10 @@ Use the Pokémon Gold naming interface to enter the Pokémon name or Pokédex nu
 
 Designed for:
 
-- Pokémon Gold
-- Gen1Recomp
+- **Pokémon Gold**
+- **Pokémon Silver**
+- **Pokémon Crystal**
+- **Gen1Recomp**
 
 This mod targets normal wild encounters.
 
@@ -144,31 +150,40 @@ Certain special encounter systems may behave differently because they do not nec
 
 ## Important
 
-This repository does **not** contain Pokémon Gold, a Pokémon Gold ROM, or copyrighted game assets.
+This repository does **not** contain Pokémon Gold, Silver or Crystal ROMs, original game files, or copyrighted game assets.
 
 You must provide your own legally obtained game data as required by Gen1Recomp.
 
 ## Version
 
-### v1.1.4 — Final
+### v1.2.2 — Latest
 
-- Added Pokémon selection by name / Pokédex number
-- Added custom encounter level selection
-- Added one-time encounter spawning
-- Added optional REPEAT mode
-- Added CANCEL PENDING
-- Added X / Back support throughout the spawner interface
-- Improved keyboard navigation
-- Fixed the level selector occasionally being skipped on the first use
-- Preserved normal encounter behavior when no spawn is active
+- Added support for **Pokémon Gold, Silver & Crystal**
+- Supports all 251 Gen 2 Pokémon
+- Pokémon selection by name or Pokédex number
+- Custom encounter level selection
+- One-time encounter spawning
+- Optional REPEAT mode
+- SHINY ON/OFF toggle
+- Shiny Pokémon remain Shiny when caught and stored
+- CANCEL PENDING option
+- Full 0–9 keyboard support
+- Keyboard + controller navigation
+- LEFT / RIGHT level adjustment changes the level by exactly ±10
+- Normal encounter behavior is preserved when no forced spawn is active
 
 ## Credits
 
-Built for the Gen1Recomp Pokémon Gold environment.
+Built for the Gen1Recomp Pokémon Gen 2 environment.
 
-Gen1Recomp:
+Gen1Recomp:  
 https://github.com/bryanthaboi/gen1recomp
 
-Pokémon and Pokémon Gold are trademarks of Nintendo, Creatures Inc., and GAME FREAK inc. This is an unofficial fan-made mod and is not affiliated with, endorsed by, or sponsored by Nintendo, Creatures Inc., GAME FREAK inc., or The Pokémon Company.
+## Disclaimer
 
-No ROM, game files, or copyrighted Pokémon Gold assets are included or distributed with this project.
+This is an unofficial, fan-made mod created for use with Gen1Recomp.
+This project is not affiliated with, endorsed by, sponsored by, or associated with Nintendo, The Pokémon Company, GAME FREAK, or Creatures Inc.
+Pokémon and all related names, characters, trademarks, and game content are the property of their respective copyright and trademark owners.
+No ROMs, original game files, copyrighted game assets, or Nintendo/Pokémon software are included or distributed with this mod.
+This repository contains only original mod code intended to modify compatible user-provided game installations.
+This project is provided free of charge and for non-commercial purposes.
